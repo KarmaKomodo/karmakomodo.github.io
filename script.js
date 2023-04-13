@@ -24,7 +24,7 @@ const words = [
     'She talks about feet/toes',
     'She talks about the basement',
     'She mentions how she always busy',
-    'New basement dweller',
+    'New toemaniac (follower)',
     'Im not a strawberry',
     'We raid someone from the Dork Club'
 ];
