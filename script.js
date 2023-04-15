@@ -7,10 +7,10 @@ const words = [
     'Someone #FUNDS THE LUBE', 
     'She dances', 
     'Heart rate over 99', 
-    'She dies in game x5', 
-    'She thirsts on Leon', 
+    '"Im a little crusty"', 
+    'She blames her shirt/top', 
     'She mentions another streamer', 
-    'She gets jumpscared', 
+    'Wrong instrumental', 
     'Embarrassing life story',
     '"Hey. Hey."',
     'BEBEBE',
@@ -26,7 +26,23 @@ const words = [
     'She mentions how she always busy',
     'New toemaniac (follower)',
     'Im not a strawberry',
-    'We raid someone from the Dork Club'
+    'We raid someone from the Dork Club',
+    'She forgets the lyrics',
+    'She sings a rap section',
+    'Is the BGM okay',
+    'She makes us piss',
+    'PI55 (25 gifted subs)',
+    'Piss in my 💛 (10 gifted subs)',
+    'Scuff happens',
+    'She says HUH',
+    'She opens MS Paint',
+    'Fart Sound Effect',
+    'She sings in japanese'
+    'She sings a song from before 2010',
+    'She sings a song from after 2010',
+    'Encore!',
+    'She chats for 30m before singing',
+    'She says Among Us'
 ];
 
 const freeSpace = 'Toma starts late';
