@@ -32,7 +32,7 @@ const words = [
     'Is the BGM okay',
     'She makes us piss',
     'PI55 (25 gifted subs)',
-    'Piss in my 💛 (10 gifted subs)',
+    'Piss in my heart (10 gifted subs)',
     'Scuff happens',
     'She says HUH',
     'She opens MS Paint',
