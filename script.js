@@ -37,7 +37,7 @@ const words = [
     'She says HUH',
     'She opens MS Paint',
     'Fart Sound Effect',
-    'She sings in japanese'
+    'She sings in japanese',
     'She sings a song from before 2010',
     'She sings a song from after 2010',
     'Encore!',
