@@ -8,9 +8,7 @@ const words = [
     'She dances', 
     'Heart rate over 99', 
     '"Im a little crusty"', 
-    'She blames her shirt/top', 
     'She mentions another streamer', 
-    'Wrong instrumental', 
     'Embarrassing life story',
     '"Hey. Hey."',
     'BEBEBE',
@@ -31,17 +29,11 @@ const words = [
     'She sings a rap section',
     'Is the BGM okay',
     'She makes us piss',
-    'PI55 (25 gifted subs)',
     'Piss in my heart (10 gifted subs)',
     'Scuff happens',
     'She says HUH',
     'She opens MS Paint',
     'Fart Sound Effect',
-    'She sings in japanese',
-    'She sings a song from before 2010',
-    'She sings a song from after 2010',
-    'Encore!',
-    'She chats for 30m before singing',
     'She says Among Us'
 ];
 
