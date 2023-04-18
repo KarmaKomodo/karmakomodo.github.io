@@ -25,8 +25,6 @@ const words = [
     'New toemaniac (follower)',
     'Im not a strawberry',
     'We raid someone from the Dork Club',
-    'She forgets the lyrics',
-    'She sings a rap section',
     'Is the BGM okay',
     'She makes us piss',
     'Piss in my heart (10 gifted subs)',
