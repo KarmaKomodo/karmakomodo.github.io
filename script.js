@@ -33,6 +33,7 @@ const words = [
     'She opens MS Paint',
     'Fart Sound Effect',
     'She says Among Us'
+    'She Says Something Illegal'
 ];
 
 const freeSpace = 'Toma starts late';
