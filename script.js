@@ -18,7 +18,7 @@ const words = [
     'Talks about her massive dumpy',
     'Boxing Team comes up',
     'She says “Im normal, I swear”',
-    'Talks about concussion',
+    'She Gets Called Mort',
     'She talks about feet/toes',
     'She talks about the basement',
     'She mentions how she always busy',
