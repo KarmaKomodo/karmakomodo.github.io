@@ -34,6 +34,7 @@ const words = [
     'Fart Sound Effect',
     'She says Among Us'
     'She Says Something Illegal'
+    '5 or more funded towards the lube'
 ];
 
 const freeSpace = 'Toma starts late';
