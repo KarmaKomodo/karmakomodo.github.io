@@ -32,10 +32,10 @@ const words = [
     'She says HUH',
     'She opens MS Paint',
     'Fart Sound Effect',
-    'She says Among Us'
-    'She Says Something Illegal'
-    '10+ funded towards the lube'
-    'Brings Up A Kink'
+    'She says Among Us',
+    'She Says Something Illegal',
+    '10+ funded towards the lube',
+    'Brings Up A Kink',
     'Someone Cooms'
 ];
 
