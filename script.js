@@ -37,6 +37,7 @@ const words = [
     '10+ funded towards the lube',
     'Brings Up A Kink',
     'Someone Cooms'
+    ' O_? O_? O_? copypasta tts'
 ];
 
 const freeSpace = 'Toma starts late';
