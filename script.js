@@ -36,9 +36,9 @@ const words = [
     'She Says Something Illegal',
     '10+ funded towards the lube',
     'Brings Up A Kink',
-    'Someone Cooms'
-    ' O_? O_? O_? copypasta tts'
-    'Toma argues with chat'
+    'Someone Cooms',
+    ' O_? O_? O_? copypasta tts',
+    'Toma argues with chat',
     'Lies about her Size'
 ];
 
