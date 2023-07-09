@@ -1,12 +1,11 @@
 const words = [
     'Metal Pipe', 
-    '"Nouuur"', 
+    '"Hmm-hmm Hmm-hmm"', 
     'You guys are sick', 
     'We get raided', 
     'She says Piss',
     'She dances', 
-    'Heart rate over 99', 
-    '"Im a little crusty"', 
+    'Crazy? I was crazy once...', 
     'She mentions another streamer', 
     'Embarrassing life story',
     '"Hey. Hey."',
@@ -34,8 +33,8 @@ const words = [
     'She says Among Us',
     'She Says Something Illegal',
     'Brings Up A Kink',
-    'Someone Cooms',
-    ' O_? O_? O_? copypasta tts',
+    'Luigi Cooms',
+    'Copypasta TTS',
     'Toma argues with chat',
     'Lies about her Size'
 ];
